@@ -65,9 +65,8 @@ You've just encountered the self-taught programmer & software developer who is l
 
 <hr/>
 
-
-- ⚡ Fun fact: ...
+- ⚡Fun facts
     - 🤔 How do I know that I know that I know when I know that I know?
     - 💬 Ask me about anything that I don't know.
-
+<hr/>
 
