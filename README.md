@@ -11,7 +11,7 @@ You've just encountered the self-taught programmer & software developer who is l
   -  In-house desktop application utilizing Microsoft Stack.
   -  Growing heads on my toes.
 - 🧠 I’m currently learning .Net Core's implementation on Desktop Applications.
-- 👀 I'm currently reading <a href="https://en.wikipedia.org/wiki/Meditations">The Meditations</a> by <a href="https://en.wikipedia.org/wiki/Marcus_Aurelius">Marcus Aurelius</a>
+- 👀 I'm currently reading 🗃️ <a href="https://en.wikipedia.org/wiki/Meditations">The Meditations</a> by <a href="https://en.wikipedia.org/wiki/Marcus_Aurelius">Marcus Aurelius</a>
 - 💡  I would love to collaborate on any fun, exciting projects.
 - 🎮 I would really really really love to learn Game Development, Animation, VR Development if cosmos permits 😜
 
