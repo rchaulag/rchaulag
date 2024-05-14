@@ -5,7 +5,7 @@
 
 You've just encountered the self-taught programmer & software developer who is learning & working all while making fun and interesting projects. I love working with C# and am adaptable to working with a range of other languages and frameworks. 
 
-- 🏫 Electrical Engineering <b>Drop-Out</b> student from <a href="https://uh.edu/">University Of Houston</a>
+- 🏫 EE student from <a href="https://uh.edu/">University Of Houston</a>
 - 🔭 I’m currently working on :
   -  In-house web application utilizing Microsoft Stack.
   -  In-house desktop application utilizing Microsoft Stack.
