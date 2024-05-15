@@ -1,6 +1,8 @@
 ### Hey there! ☮️
  ~~⚠️Feel free to dive in and embrace the adventure! Just a heads up, things might get a tad wild!⚠️~~
-
+<div align="center">
+ <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHM5bnc0Y2V2cGhqOGs1YTRjODN3eGx4cGRwd2VrdDc0azVsenM1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EhzWrhGlYuvug/giphy.gif"/>
+</div>
 </br>
 
 You've just encountered the self-taught programmer & software developer who is learning & working all while making fun and interesting projects. I love working with C# and am adaptable to working with a range of other languages and frameworks. 
