@@ -67,6 +67,10 @@ You've just encountered the self-taught programmer & software developer who is l
 
 <hr/>
 
+<div align="center">
+ <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm12YWpoeGw5aHdjb2xlaXIwanUxb3hzazc1Zmhjcmc2MmswYnUwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xznyPebL28X5u/giphy.gif"/>
+</div>
+
 - ⚡Fun facts
     - 🤔 How do I know that I know that I know when I know that I know?
     - 💬 Ask me about anything that I don't know.
